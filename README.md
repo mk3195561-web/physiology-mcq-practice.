@@ -1,2 +1,2 @@
-# physiology-mcq-practice.
-MBBS Physiology Quiz
+# physiology-quiz
+Physiology Quiz
